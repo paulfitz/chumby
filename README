@@ -1,0 +1,9 @@
+Cross-compiling for the Chumby8, using CMake.
+
+Prereqs:
+
+  GNU Toolchain
+  http://wiki.chumby.com/index.php/GNU_Toolchain
+
+  CMake
+  http://www.cmake.org
